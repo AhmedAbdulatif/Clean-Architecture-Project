@@ -1,10 +1,15 @@
 # clean_arc_app
 
-A new Flutter project.
+A demo project for implementing clean architecture design.
 
-## Getting Started
+## Tools Used
 
-This project is a starting point for a Flutter application.
+* MVVM Architecure pattern
+* Streams
+* demo api for making api calls
+* caching api responses using shared prefrences
+* localization
+* Extension functions
 
 A few resources to get you started if this is your first Flutter project:
 
